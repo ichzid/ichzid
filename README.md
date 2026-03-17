@@ -1,188 +1,110 @@
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██╗██╗  ██╗███╗   ███╗ █████╗ ██╗                        ║
-║    ██║██║  ██║████╗ ████║██╔══██╗██║                        ║
-║    ██║███████║██╔████╔██║███████║██║                        ║
-║    ██║██╔══██║██║╚██╔╝██║██╔══██║██║                        ║
-║    ██║██║  ██║██║ ╚═╝ ██║██║  ██║███████╗                   ║
-║    ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝                   ║
-║                                                              ║
-║              AL  AZID                                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### ⬡ Full Stack Developer · AI Automation Engineer · Jakarta, Indonesia
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ichzid.my.id-0f172a?style=for-the-badge&labelColor=0f172a&color=38bdf8)](https://ichzid.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a&color=1e293b)](https://linkedin.com/in/ihmal-al-azid-59507415b/)
-[![Email](https://img.shields.io/badge/Email-ichmal.alazid@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0f172a&color=1e293b)](mailto:ichmal.alazid@gmail.com)
-
+  <h1>Ihmal Al Azid</h1>
+  <p>Full Stack Developer | AI Automation Engineer</p>
+  <p>
+    Building scalable web applications, backend systems, and practical AI automation workflows.
+  </p>
+  <p>
+    <a href="https://ichmal.my.id">Portfolio</a>
+    |
+    <a href="mailto:ichmal.alazid@gmail.com">Email</a>
+    |
+    <a href="https://github.com/ichzid">GitHub</a>
+    |
+    <a href="https://www.linkedin.com/in/ihmal-al-azid-59507415b/">LinkedIn</a>
+  </p>
 </div>
 
----
+## About Me
+
+Based in West Jakarta, Indonesia, I have 4+ years of experience building web applications with a strong focus on backend architecture, API design, database optimization, and maintainable product delivery.
+
+Alongside full stack development, I build AI automation systems using `n8n`, `OpenAI`, `Gemini`, and `RAG` workflows to help businesses reduce manual work and improve operational efficiency.
+
+## What I Do
+
+- Build modern web applications for business operations and internal systems
+- Design REST APIs and scalable backend architectures
+- Optimize database performance for reliability and speed
+- Develop AI automation pipelines and LLM-powered workflows
+- Deploy and maintain production-ready applications
+
+## Experience Highlights
+
+### Full Stack Developer
+**PT. Creative Future Lab**  
+Remote Freelance | Aug 2025 - Present
+
+- Designed and deployed 5+ AI automation workflows using `n8n`
+- Integrated multiple external services for internal business process automation
+- Built web applications connected with automation systems for SaaS products
+- Mentored 100+ bootcamp participants in AI engineering, LLM orchestration, and prompt engineering
+
+### Information Technology Engineer
+**BAPENDA Kab. Batu Bara**  
+Jan 2022 - Present
+
+- Developed and maintained regional tax management systems using `CodeIgniter` and `MySQL`
+- Supported systems serving 500+ daily users
+- Reduced page load time by up to 70% through query and architecture optimization
+- Managed end-to-end IT infrastructure including servers, internal networks, and internal web apps
+
+### Web Developer
+**PT. Andalas Metrodata Telematika**  
+Jun 2021 - Dec 2021
+
+- Built custom web systems with responsive interfaces and modern UI patterns
+- Integrated third-party REST APIs and improved application performance
+- Collaborated in debugging, code review, deployment, and release stability
+
+## Tech Stack
+
+**Languages**  
+`TypeScript` `JavaScript` `PHP` `SQL`
+
+**Frontend**  
+`React` `Next.js` `Vue.js` `Tailwind CSS`
+
+**Backend**  
+`Laravel` `CodeIgniter` `Node.js` `REST API`
+
+**Database**  
+`MySQL` `PostgreSQL` `Supabase` `Prisma`
+
+**AI & Automation**  
+`n8n` `OpenAI` `Gemini` `RAG` `PGVector` `Prompt Engineering`
+
+**DevOps & Tools**  
+`Git` `GitHub Actions` `Docker` `Vercel` `VPS`
+
+## Current Focus
+
+- AI-enabled business automation systems
+- Full stack products with strong backend foundations
+- Practical LLM orchestration for real operational use cases
+- Clean, maintainable systems that create measurable impact
+
+## Education
+
+**Bachelor of Information Systems**  
+STMIK Royal Kisaran | Aug 2016 - Oct 2019  
+GPA: `3.54 / 4.00`
+
+## GitHub Stats
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  "Building systems that think, automate, and scale."           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ichzid&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichzid&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+    alt="Top languages"
+  />
 </div>
 
-## ◈ About Me
+## Let's Connect
 
-Full Stack Developer dengan **4+ tahun pengalaman** membangun aplikasi web berbasis PHP yang scalable, secure, dan maintainable. Saat ini mengeksplorasi dunia **AI Engineering & Automation** — dari RAG pipelines hingga workflow orchestration yang bisa menggantikan pekerjaan manual berulang.
-
-Saya percaya bahwa kode yang baik bukan hanya yang berjalan — tapi yang *bertahan, mudah dirawat, dan memberi nilai nyata.*
-
----
-
-## ◈ Tech Arsenal
-
-<div align="center">
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=a5b4fc)
-![Laravel](https://img.shields.io/badge/Laravel-1e293b?style=flat-square&logo=laravel&logoColor=f87171)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_3-1e293b?style=flat-square&logo=codeigniter&logoColor=fb923c)
-![REST API](https://img.shields.io/badge/RESTful_API-1e293b?style=flat-square&logo=fastapi&logoColor=34d399)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=fbbf24)
-![Vue.js](https://img.shields.io/badge/Vue.js-1e293b?style=flat-square&logo=vuedotjs&logoColor=4ade80)
-![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-1e293b?style=flat-square&logo=inertia&logoColor=a78bfa)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1e293b?style=flat-square&logo=tailwindcss&logoColor=22d3ee)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1e293b?style=flat-square&logo=bootstrap&logoColor=c084fc)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=38bdf8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=818cf8)
-![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=3ecf8e)
-
-### AI & Automation
-![n8n](https://img.shields.io/badge/n8n_Workflow-1e293b?style=flat-square&logo=n8n&logoColor=ea5a0c)
-![OpenAI](https://img.shields.io/badge/OpenAI-1e293b?style=flat-square&logo=openai&logoColor=ffffff)
-![Gemini](https://img.shields.io/badge/Google_Gemini-1e293b?style=flat-square&logo=google&logoColor=4285f4)
-![Vector DB](https://img.shields.io/badge/PGVector_/_RAG-1e293b?style=flat-square&logo=postgresql&logoColor=a78bfa)
-![WhatsApp](https://img.shields.io/badge/WAHA_Automation-1e293b?style=flat-square&logo=whatsapp&logoColor=25d366)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=38bdf8)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-1e293b?style=flat-square&logo=githubactions&logoColor=fbbf24)
-
-</div>
-
----
-
-## ◈ Experience Timeline
-
-```
-2025 ──────────────────────────────────────────────────────── SEKARANG
- │
- ├── 🤖  PT. Creative Future Lab  ·  Full Stack Developer (Remote)
- │       ∙ AI automation workflow + external API integration
- │       ∙ Web apps terintegrasi AI untuk otomatisasi bisnis
- │       ∙ Mentor mini bootcamp AI Engineering
- │
-2022 ──────────────────────────────────────────────────────── SEKARANG
- │
- ├── 🏛️  Badan Pendapatan Daerah Kab. Batu Bara  ·  IT Engineer
- │       ∙ Sistem pajak daerah: PBB, BPHTB (Laravel + CI3 + MySQL)
- │       ∙ Debugging, optimasi performa, pengembangan fitur inti
- │       ∙ Manajemen infrastruktur TI: server, jaringan, aplikasi
- │
-2021 ──────────────────────────────────────────────────────────────────
- │
- ├── 💼  PT. Andalas Metrodata Telematika  ·  Web Developer
- │       ∙ Custom web apps dengan Laravel & CodeIgniter
- │       ∙ API integration, performance optimization
- │       ∙ Kolaborasi cross-functional dengan designer & PM
- │
-2021 ──────────────────────────────────────────────────────────────────
- │
- └── 🎓  STMIK Royal Kisaran  ·  S1 Sistem Informasi  ·  IPK 3.54
-         Skripsi: Sistem Smart School SMP Negeri 1 Sei Dadap
-```
-
----
-
-## ◈ What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-**⬡ Web Applications**
-```
-Laravel · CodeIgniter · Vue.js
-Inertia.js · TailwindCSS
-RESTful API · Clean Architecture
-```
-Sistem manajemen, aplikasi operasional bisnis, portal data daerah.
-
-</td>
-<td width="50%">
-
-**⬡ AI & Automation Systems**
-```
-n8n · OpenAI · Gemini
-RAG/CAG · PGVector · Supabase
-WhatsApp Bot · Webhook Pipelines
-```
-Workflow otomatis, AI chatbot, sistem berbasis LLM terintegrasi.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichzid&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=a5b4fc&text_color=94a3b8&bg_color=0f172a)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichzid&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a)
-
-</div>
-
----
-
-## ◈ Currently Exploring
-
-```javascript
-const currentFocus = {
-  learning:   ["LLM Orchestration", "Advanced RAG Systems", "AI Agent Design"],
-  building:   ["AI-powered automation tools", "Workflow optimization systems"],
-  interested: ["Agentic AI", "Multi-modal pipelines", "Edge deployment"],
-};
-```
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   Got an interesting project? Let's build something.    ║
-║                                                          ║
-║   📧  ichmal.alazid@gmail.com                           ║
-║   📱  +62-853-6274-1943                                  ║
-║   🌐  ichzid.my.id                                       ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-*"Clean code. Scalable systems. Automation that works."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=ichzid&color=38bdf8&style=flat-square&label=Profile+Views)
-
-</div>
+If you are building a product, internal tool, or AI-powered workflow, I am open to collaboration and interesting engineering opportunities.

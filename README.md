@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗██╗  ██╗███╗   ███╗ █████╗ ██╗      █████╗ ██╗      █████╗ ███████╗██╗██████╗
-██║██║  ██║████╗ ████║██╔══██╗██║     ██╔══██╗██║     ██╔══██╗╚════██║██║██╔══██╗
-██║███████║██╔████╔██║███████║██║     ███████║██║     ███████║    ██╔╝██║██║  ██║
-██║██╔══██║██║╚██╔╝██║██╔══██║██║     ██╔══██║██║     ██╔══██║   ██╔╝ ██║██║  ██║
-██║██║  ██║██║ ╚═╝ ██║██║  ██║███████╗██║  ██║███████╗██║  ██║   ██║  ██║██████╔╝
-╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═════╝
-```
+<h1>✦ Ihmal Al Azid ✦</h1>
 
 <h3>Full Stack Developer &nbsp;·&nbsp; AI Automation Engineer</h3>
 
@@ -50,44 +43,32 @@ Full Stack Developer with a strong backend foundation — designing REST APIs, o
 
 ## 💼 Experience
 
-<table>
-  <tr>
-    <td width="50%">
-
 ### 🧑‍🔬 Full Stack Developer
-**PT. Creative Future Lab**
-`Remote Freelance` · Aug 2025 – Present
+**PT. Creative Future Lab** &nbsp;·&nbsp; `Remote Freelance` &nbsp;·&nbsp; Aug 2025 – Present
 
 - 🔁 Designed & deployed **5+ AI automation workflows** using `n8n`
 - 🔗 Integrated multiple external services for business process automation
 - 🛠️ Built web apps connected with automation systems for SaaS products
 - 🎓 Mentored **100+ bootcamp participants** in AI engineering, LLM orchestration & prompt engineering
 
-  </td>
-  <td width="50%">
+---
 
-### 🏛️ IT Engineer
-**BAPENDA Kab. Batu Bara**
-`On-site` · Jan 2022 – Present
+### 🏛️ Information Technology Engineer
+**BAPENDA Kab. Batu Bara** &nbsp;·&nbsp; `On-site` &nbsp;·&nbsp; Jan 2022 – Present
 
 - 📋 Developed regional tax management systems with `CodeIgniter` & `MySQL`
 - 👥 Systems serving **500+ daily users**
 - ⚡ Reduced page load time by **up to 70%** via query & architecture optimization
 - 🖥️ Managed end-to-end IT infrastructure: servers, networks & internal apps
 
-  </td>
-  </tr>
-  <tr>
-    <td colspan="2">
+---
 
 ### 🌐 Web Developer
-**PT. Andalas Metrodata Telematika** · `Jun 2021 – Dec 2021`
+**PT. Andalas Metrodata Telematika** &nbsp;·&nbsp; `Jun 2021 – Dec 2021`
 
-Built custom web systems with responsive interfaces · Integrated third-party REST APIs · Collaborated in debugging, code review, deployment & release stability
-
-  </td>
-  </tr>
-</table>
+- 🎨 Built custom web systems with responsive interfaces & modern UI patterns
+- 🔌 Integrated third-party REST APIs and improved application performance
+- 🤝 Collaborated in debugging, code review, deployment & release stability
 
 ---
 

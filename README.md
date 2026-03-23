@@ -21,7 +21,6 @@
 name        : Ihmal Al Azid
 location    : West Jakarta, Indonesia
 experience  : 4+ years
-focus       : Backend Architecture · API Design · AI Automation
 open_to     : Freelance · Collaboration · Engineering Roles
 ```
 

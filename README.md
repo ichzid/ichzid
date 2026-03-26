@@ -63,7 +63,7 @@ Full Stack Developer with a strong backend foundation — designing REST APIs, o
 ---
 
 ### 🌐 Web Developer
-**PT. Andalas Metrodata Telematika** &nbsp;·&nbsp; `On-site` &nbsp;·&nbsp; `Jun 2021 – Dec 2021`
+**PT. Andalas Metrodata Telematika** &nbsp;·&nbsp; `On-site` &nbsp;·&nbsp; Jun 2021 – Dec 2021
 
 - 🎨 Built custom web systems with responsive interfaces & modern UI patterns
 - 🔌 Integrated third-party REST APIs and improved application performance
